@@ -8,8 +8,8 @@ If you are here, you must know i like to build everything that i have in mind.  
  <summary> 😊 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=issaiass&show_icons=true&theme=dracula">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=issaiass&hide=Jupyter%20Notebook,html&theme=gruvbox">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ranjitkathiriya&show_icons=true&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitkathiriya&hide=Jupyter%20Notebook,html&theme=gruvbox">
 </p>
 </details>
 
