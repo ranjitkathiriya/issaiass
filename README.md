@@ -5,7 +5,7 @@ I am an Electromechanical Engineer living in Panama City, :panama: who is passio
 If you are here, you must know i like to build everything that i have in mind.  I do not post so much in github frequently because i want to make quality work, not quantity, appart i have a comercial repo that i am maintaining (see below the project).
 
 <details open>
- <summary> 😊 <b>My Github Stats</b>: </summary>
+ <summary> 😊 <b>My Github Stats</b>:s </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ranjitkathiriya&show_icons=true&theme=dracula">
